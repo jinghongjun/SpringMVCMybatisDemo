@@ -1,7 +1,10 @@
-# SpringMVCMybatisDemo
-spring + spring mvc + mybatis
+1.该项目为java web server demo
+  > spring + spring mvc + mybatis
 
-# 项目目前只包括基本集成
+2.token支持
 
-# token支持 
-# 自动生成工具 TODO
+3.自动生成 dao code 工具
+
+4.logger
+
+5.上传功能
